@@ -339,3 +339,5 @@ MIT — use at your own risk. Comply with WhatsApp and OpenRouter terms of servi
 <!-- Environment variable setup instructions documented -->
 
 <!-- Updated quickstart steps for developers -->
+
+<!-- Environment variable setup instructions documented -->
