@@ -46,3 +46,5 @@ async def webhook(request: Request) -> WebhookAck:
         return WebhookAck(received=True, processed=False, detail="processing error")
 
 # Webhook verification ensures payloads originate from evolution api
+
+# Webhook verification ensures payloads originate from evolution api
