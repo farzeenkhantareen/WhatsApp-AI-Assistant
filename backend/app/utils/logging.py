@@ -38,3 +38,5 @@ def safe_extra(**kwargs: Any) -> dict[str, Any]:
     return out
 
 # Centralized logging formatters
+
+# Centralized logging formatters
