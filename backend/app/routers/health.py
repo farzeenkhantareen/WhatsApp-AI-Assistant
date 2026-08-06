@@ -50,3 +50,5 @@ async def health(response: Response) -> HealthResponse:
     )
 
 # Optimized health check formats
+
+# Optimized health check formats
