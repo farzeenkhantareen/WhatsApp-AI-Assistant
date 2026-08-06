@@ -16,3 +16,6 @@ build/
 docker-data/
 # Local env overrides
 .env.local
+
+# Local env overrides
+.env.local
